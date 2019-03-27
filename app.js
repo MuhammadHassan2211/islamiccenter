@@ -226,8 +226,7 @@ server.post('/add', (req, res) => {
             service: 'gmail',
             auth: {
                 user: 'mhassan25818@gmail.com', // here use your real email
-                pass: 'jamia2211' // put your password correctly (not in this question please)
-            }
+                pass: 'enter your gmail password' // to check your project please write your gmail and password          }
         });
 
         // setup email data with unicode symbols
